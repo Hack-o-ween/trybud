@@ -55,7 +55,7 @@ Have a look at `environments.toml` for more fined-grained control.
 npm run dev
 ```
 
-Open the server URL in your web browser. 
+Open the server URL in your web browser.
 
 4. For testnet/mainnet deployment:
 
@@ -109,4 +109,7 @@ my-project/                      # Your initialized project
 ```
 
 This template provides a ready-to-use frontend application with example smart contracts and their TypeScript clients. You can use these as reference while building your own contracts and UI. The frontend is set up with Vite, React, and includes basic components for interacting with the contracts.
+
+# trybud
+
 # trybud
