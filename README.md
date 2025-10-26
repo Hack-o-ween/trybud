@@ -1,4 +1,14 @@
-# Scaffold Stellar Frontend
+<img width="61" height="63" alt="logo" src="https://github.com/user-attachments/assets/4aabee70-2de7-4fc7-9b60-4cd03be67bc3" /> 
+
+# trybud
+: make your own journey by using trybud!
+
+## 🎞️ Demo video
+
+## 🖥️ UI screenshots
+
+## 💭 how smart contract works
+
 
 _To get started with Scaffold Stellar, visit its repo: [github.com/AhaLabs/scaffold-stellar](https://github.com/AhaLabs/scaffold-stellar)._
 
@@ -109,4 +119,13 @@ my-project/                      # Your initialized project
 ```
 
 This template provides a ready-to-use frontend application with example smart contracts and their TypeScript clients. You can use these as reference while building your own contracts and UI. The frontend is set up with Vite, React, and includes basic components for interacting with the contracts.
-# trybud
+
+## 🗣️ explaining video
+## 🔗 demo site url
+
+
+
+
+
+
+
